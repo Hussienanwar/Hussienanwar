@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Developer | PHP | Laravel Hello, I am an experienced backend developer with 1 year of experience in building scalable web solutions. My skills include PHP and Laravel: designing efficient and dynamic applications. - MySQL: Managing secure and reliable databases. I thrive on solving complex challenges with innovative and accurate solutions.
+Backend Developer | PHP | Laravel Hello, I am an experienced backend developer with +2 year of experience in building scalable web solutions. My skills include PHP and Laravel: designing efficient and dynamic applications. - MySQL: Managing secure and reliable databases. I thrive on solving complex challenges with innovative and accurate solutions.
 
 
 ## 🌐 Socials:
